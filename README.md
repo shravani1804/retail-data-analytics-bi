@@ -39,6 +39,8 @@ This project demonstrates how to work with large datasets, from extraction and c
 2.Identify trends
 
 3.Generate insights for decision-making
+### Project Workflow
+Raw Retail Data → Data Cleaning → Data Quality Checks → Python Analysis → SQL Insights → Business Reporting
 
 **Skills Demonstrated**
 
@@ -99,6 +101,13 @@ Use the Kaggle API to download the dataset (instructions included in the noteboo
 **Why This Project Matters**
 
 This project demonstrates a solid understanding of the data analytics lifecycle, from raw data to actionable insights. It showcases my technical skills, attention to detail, and ability to work with multiple tools and technologies—all essential for a career in data analytics.
+### My Contributions
+- Cleaned and validated retail sales data using Python
+- Added business KPIs such as profit margin
+- Wrote SQL queries for regional and category-level insights
+- Performed data quality checks to identify missing and duplicate records
+- Improved project structure and documentation
+
 
 
 
